@@ -1,4 +1,4 @@
-# Web Implementation & Standards Organization
+# Web Implementation Guidelines Group
 
 **Building accessible, secure, brand-aligned, and sustainable web solutions through shared governance and open collaboration.**
 
