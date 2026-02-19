@@ -1,9 +1,11 @@
-Web Implementation & Standards Organization
-Building accessible, secure, brand-aligned, and sustainable web solutions through shared governance and open collaboration.
+# Web Implementation & Standards Organization
+
+**Building accessible, secure, brand-aligned, and sustainable web solutions through shared governance and open collaboration.**
 
 This contains the source code for the website toolkit, Content Management Systems deployments, and back-end tools that help run our campus websites.
 
-Contact Us
+## Contact Us
+
 If you have questions or want to get involved with the broader Web Implementation Guidelines Group community:
 
 Visit the WIGG homepage: https://wigg.illinois.edu/
