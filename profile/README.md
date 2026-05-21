@@ -4,6 +4,10 @@
 
 This contains the source code for the website toolkit, Content Management Systems deployments, and back-end tools that help run our campus websites.
 
+## Applications in this web organization
+
+Generally, we will not enable applications installed in this organization because this has far reaching effects to the campus infrastructure. Having said that, if you need to install an application, please send a note to wigg-steering-group@office365.illinois.edu below before installing the application.
+
 ## Contact Us
 
 If you have questions or want to get involved with the broader Web Implementation Guidelines Group community:
